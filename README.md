@@ -1,3 +1,6 @@
+# YoutubeTags
+
+[![YoutubeTags](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=YoutubeTags)](https://github.com/bughunter0/YoutubeTags)
 
 
 # Web Scrapper Bot
@@ -8,6 +11,10 @@
 
 
 [![Member Sticker Bot](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=member-sticker-bot)](https://github.com/bughunter0/member-sticker-bot)
+
+# YouTube-TagFind-Bot
+
+[![YouTube-TagFind-Bot](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=YouTube-TagFind-Bot)](https://github.com/bughunter0/YouTube-TagFind-Bot)
 
 # Sticker Bot
 
