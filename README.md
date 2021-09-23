@@ -81,6 +81,6 @@
 
 ## Credits 
 
-[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-[shields.io](https://shields.io/)
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+[shields.io](https://shields.io/)<br>
 [Me 😑](https://github.com/bughunter0)
