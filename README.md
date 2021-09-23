@@ -70,3 +70,11 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/bughunter0/AntiService-AntiCommand?style=social)
 <img src="https://img.shields.io/github/forks/bughunter0/AntiService-AntiCommand?style=social"></img>
 
+# No-Inline-Messages
+
+
+[![Inline](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=No-Inline-Messages)](https://github.com/bughunter0/No-Inline-Messages)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/bughunter0/No-Inline-Messages?style=social)
+<img src="https://img.shields.io/github/forks/bughunter0/No-Inline-Messages?style=social"></img>
+
