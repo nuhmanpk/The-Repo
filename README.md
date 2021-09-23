@@ -78,3 +78,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/bughunter0/No-Inline-Messages?style=social)
 <img src="https://img.shields.io/github/forks/bughunter0/No-Inline-Messages?style=social"></img>
 
+
+## Credits 
+
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[shields.io](https://shields.io/)
+[Me 😑](https://github.com/bughunter0)
