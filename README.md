@@ -13,6 +13,15 @@
 <img src="https://img.shields.io/github/forks/bughunter0/webScrapperRoBot?style=social"></img>
 
 
+# AudioBook Bot
+
+
+[![AudioBook](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=AudioBook)](https://github.com/bughunter0/AudioBook)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/bughunter0/AudioBook?style=social)
+<img src="https://img.shields.io/github/forks/bughunter0/AudioBook?style=social"></img>
+
+
 # Member Sticker Bot
 
 
